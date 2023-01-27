@@ -4,4 +4,4 @@ This is simple readme file
 
 ## Heading 2
 
-Thi is bound to cause trouble!
+Just something on the file!
